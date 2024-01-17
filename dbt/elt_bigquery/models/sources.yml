@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: elt_staging
+    tables:
+      - name: nyc_tlc_trip
+        identifier: raw_fact_data
